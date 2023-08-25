@@ -91,4 +91,6 @@ void draw()
   textSize(30);
   text("I drew a shibu inu that's supposed to represent the Doge meme, Rip Kobasu", 500, 120);
   //text and stuff
+
+exit();
 }
