@@ -6,9 +6,6 @@ void setup()
 
 void draw()
 {
-  System.out.println(mouseX);  
-  System.out.println(mouseY);
-  //tracks and updates X and Y value of mouse cursor
   
  fill(#F0C552);
   triangle (369, 228, 430, 210, 370, 160);
