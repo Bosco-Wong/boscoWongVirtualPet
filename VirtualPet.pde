@@ -84,10 +84,10 @@ void draw()
   ellipse (336, 575, 3, 3);
   //spots
   
-  textAlign(CENTER);
+ /* textAlign(CENTER);
   textSize(30);
-  text("I drew a shibu inu that's supposed to represent the Doge meme, Rip Kobasu", 500, 120);
-  //text and stuff
+  text("I drew a shibu inu that's supposed to represent the Doge meme, Rip Kobasu", 500, 120); */
+  //text and stuff; hidden bc the website already has a header and footer :c
 
 exit();
 }
